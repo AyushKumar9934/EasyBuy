@@ -1,5 +1,4 @@
-#user name - govindyadav
-# pass - @rnsm108
+
 from django.shortcuts import render
 from .models import Product, Contact, Orders, OrderUpdate
 from math import ceil
